@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "Mike Dolha",
   "license": "GPL-3.0",
-  "packageManager": "pnpm@10.19.0",
+  "packageManager": "pnpm@10.22.0",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.46.2",
     "@typescript-eslint/parser": "^8.46.2",
